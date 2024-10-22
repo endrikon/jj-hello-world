@@ -1,4 +1,6 @@
 /// A "Hello, world!" program.
+///
+/// This is a good implementation
 
 fn main() {
     print_hello();
